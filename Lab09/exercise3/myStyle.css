@@ -1,0 +1,29 @@
+body
+{
+    background-color: lightcyan;
+}
+
+img { width: 200px; height: 200px; border-radius: 20px;}
+
+p{
+    background-color: lightcyan;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+form{
+    background-color: lightcyan;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+table{
+    background-color: lightcyan;
+    
+}
+
+a:hover{
+    background-color: yellow;
+    border-radius: 8px;
+
+}
